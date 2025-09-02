@@ -59,11 +59,12 @@ InfoSec Leader | Speaker and Teaching | Cyber Security Mentor | Article Writer |
 ### 🟢 Infrastructure & Automation
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Cortex XSOAR](https://img.shields.io/badge/Cortex%20XSOAR-FF6F00?style=for-the-badge&logo=paloaltosoftware&logoColor=white)
+![Azure Logic Apps](https://img.shields.io/badge/Azure%20Logic%20Apps-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Splunk Phantom](https://img.shields.io/badge/Splunk%20Phantom-000000?style=for-the-badge&logo=splunk&logoColor=white)
+![Power Automate](https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white)
 
 ---
 
