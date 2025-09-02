@@ -110,6 +110,8 @@ InfoSec Leader | Speaker and Teaching | Cyber Security Mentor | Article Writer |
 ---
 
 ## ⚡ Projects
+[![DefenderScanGUI](https://img.shields.io/badge/DefenderScanGUI-0078D4?style=for-the-badge&logo=powershell&logoColor=white)](https://github.com/AdarshPandey-dev/DefenderScanGUI)
+
 
 ---
 
