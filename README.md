@@ -33,12 +33,34 @@ InfoSec Leader | Speaker and Teaching | Cyber Security Mentor | Article Writer |
 
 ---
 
+### 🧬 Malware Analysis
+![IDA Pro](https://img.shields.io/badge/IDA%20Pro-000000?style=for-the-badge&logo=hexo&logoColor=white)
+![Ghidra](https://img.shields.io/badge/Ghidra-FB0000?style=for-the-badge&logo=ghidra&logoColor=white)
+![OllyDbg](https://img.shields.io/badge/OllyDbg-808080?style=for-the-badge)
+![x64dbg](https://img.shields.io/badge/x64dbg-2C2C2C?style=for-the-badge)
+![Radare2](https://img.shields.io/badge/Radare2-9400D3?style=for-the-badge)
+![Cutter](https://img.shields.io/badge/Cutter-FF4500?style=for-the-badge)
+
+---
+
 ### 🔵 Defensive Security
 ![OSSEC](https://img.shields.io/badge/OSSEC-3C3C3C?style=for-the-badge)
 ![Wazuh](https://img.shields.io/badge/Wazuh-02569B?style=for-the-badge&logo=wazuh&logoColor=white)
 ![Snort](https://img.shields.io/badge/Snort-CC0000?style=for-the-badge)
 ![ClamAV](https://img.shields.io/badge/ClamAV-5C2D91?style=for-the-badge)
 ![YARA](https://img.shields.io/badge/YARA-FF5722?style=for-the-badge)
+
+---
+
+### 🟣 XDR / EDR
+![Microsoft Defender XDR](https://img.shields.io/badge/Microsoft%20Defender%20XDR-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![CrowdStrike Falcon](https://img.shields.io/badge/CrowdStrike%20Falcon-E01E3C?style=for-the-badge&logo=crowdstrike&logoColor=white)
+![Trend Micro Vision One](https://img.shields.io/badge/Trend%20Micro%20Vision%20One-D71921?style=for-the-badge&logo=trendmicro&logoColor=white)
+![Check Point Harmony](https://img.shields.io/badge/Check%20Point%20Harmony-FF4F5E?style=for-the-badge&logo=checkpoint&logoColor=white)
+![SentinelOne](https://img.shields.io/badge/SentinelOne-372463?style=for-the-badge&logo=sentinelone&logoColor=white)
+![Palo Alto Cortex XDR](https://img.shields.io/badge/Cortex%20XDR-FF6F00?style=for-the-badge&logo=paloaltosoftware&logoColor=white)
+![Sophos Intercept X](https://img.shields.io/badge/Sophos%20Intercept%20X-00539F?style=for-the-badge&logo=sophos&logoColor=white)
+![Carbon Black](https://img.shields.io/badge/VMware%20Carbon%20Black-607078?style=for-the-badge&logo=vmware&logoColor=white)
 
 ---
 
@@ -53,6 +75,15 @@ InfoSec Leader | Speaker and Teaching | Cyber Security Mentor | Article Writer |
 ![Sigma Rules](https://img.shields.io/badge/Sigma%20Rules-2D3748?style=for-the-badge)
 ![Suricata](https://img.shields.io/badge/Suricata-E34F26?style=for-the-badge&logo=suricata&logoColor=white)
 ![Zeek](https://img.shields.io/badge/Zeek-000000?style=for-the-badge)
+
+---
+
+### 🕵️ DFIR (Digital Forensics & Incident Response)
+![Autopsy](https://img.shields.io/badge/Autopsy-1E90FF?style=for-the-badge&logo=autopsy&logoColor=white)
+![Volatility](https://img.shields.io/badge/Volatility-FF9900?style=for-the-badge)
+![The Sleuth Kit](https://img.shields.io/badge/The%20Sleuth%20Kit-2F4F4F?style=for-the-badge)
+![FTK Imager](https://img.shields.io/badge/FTK%20Imager-0047AB?style=for-the-badge&logo=forensics&logoColor=white)
+![OSQuery](https://img.shields.io/badge/OSQuery-22A7F0?style=for-the-badge&logo=osquery&logoColor=white)
 
 ---
 
