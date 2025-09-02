@@ -1,417 +1,472 @@
-<div align="center">
-
-# 🛡️ Adarsh Pandey | Cybersecurity Professional 🛡️
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=800&lines=Cybersecurity+Engineer+%7C+Threat+Hunter;SOC+Analyst+%7C+Azure+Security+Specialist;Bug+Bounty+Hunter+%7C+Penetration+Tester;Building+Secure+Digital+Infrastructure;%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%87!+(Namaste)+%F0%9F%99%8F%F0%9F%8F%BB" alt="Professional Title Animation" />
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Cybersecurity%20Professional&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
-
----
-
-## 🌟 Professional Summary
-
-<table>
-<tr>
-<td width="50%">
-
-### 👨‍💻 **Current Role**
-**Senior SOC Analyst & Threat Hunter**
-- 🎯 Specializing in Advanced Persistent Threat Detection
-- ☁️ Azure Security Architecture & Implementation  
-- 🔍 Digital Forensics & Incident Response
-- 🛡️ Zero Trust Security Model Advocate
-
-</td>
-<td width="50%">
-
-### 🚀 **Career Transition**
-**Electronics Engineer → Cybersecurity Expert**
-- 📈 5+ Years in Cybersecurity Operations
-- 🏆 Top 1% SOC Analyst Performance
-- 🎓 Continuous Security Education Advocate
-- 🌐 Active Cybersecurity Community Contributor
-
-</td>
-</tr>
-</table>
-
----
-
-## 🤝 Professional Network
-
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Adarsh%20Pandey-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://www.linkedin.com/in/adarsh-pandey-2019/)
-[![Twitter](https://img.shields.io/badge/Twitter-@InfosecPandey-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2)](https://twitter.com/InfosecMonk)
-[![GitHub](https://img.shields.io/badge/GitHub-AdarshPandey--dev-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717)](https://github.com/AdarshPandey-dev)
-[![Email](https://img.shields.io/badge/Email-Professional%20Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836)](mailto:adarsh.cybersec@domain.com)
-[![Medium](https://img.shields.io/badge/Medium-Security%20Blog-12100E?style=for-the-badge&logo=medium&logoColor=white&labelColor=12100E)](#)
-
-</div>
-
----
-
-## 🏆 Professional Certifications & Achievements
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="20%">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/pandey24.png" alt="TryHackMe" width="120"/><br>
-  <strong>TryHackMe</strong><br>
-  <small>Top 5% Global Rank</small>
-</td>
-<td align="center" width="20%">
-  <img src="https://img.shields.io/badge/Microsoft-Azure%20Security%20Engineer-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure Security"/><br>
-  <small>AZ-500 Certified</small>
-</td>
-<td align="center" width="20%">
-  <img src="https://img.shields.io/badge/CompTIA-Security%2B-FF0000?style=for-the-badge&logo=comptia&logoColor=white" alt="Security+"/><br>
-  <small>SY0-601 Certified</small>
-</td>
-<td align="center" width="20%">
-  <img src="https://img.shields.io/badge/CISSP-Associate-FFD700?style=for-the-badge&logo=isc2&logoColor=black" alt="CISSP"/><br>
-  <small>ISC² Member</small>
-</td>
-<td align="center" width="20%">
-  <img src="https://img.shields.io/badge/GCIH-GIAC%20Certified-4B0082?style=for-the-badge&logo=sans&logoColor=white" alt="GCIH"/><br>
-  <small>Incident Handler</small>
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-## 🔧 Technical Expertise Matrix
-
-<div align="center">
-
-### 🛡️ **Security Operations Center (SOC)**
-![Microsoft Sentinel](https://img.shields.io/badge/Microsoft%20Sentinel-Expert-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-![Splunk](https://img.shields.io/badge/Splunk-Advanced-000000?style=for-the-badge&logo=splunk&logoColor=white)
-![QRadar](https://img.shields.io/badge/IBM%20QRadar-Proficient-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
-![Elastic](https://img.shields.io/badge/Elastic%20Stack-Intermediate-005571?style=for-the-badge&logo=elastic&logoColor=white)
-
-### 🔍 **Threat Hunting & Intelligence**
-![MITRE ATT&CK](https://img.shields.io/badge/MITRE%20ATT%26CK-Framework-FF6B35?style=for-the-badge&logoColor=white)
-![Yara](https://img.shields.io/badge/YARA-Rules-1E90FF?style=for-the-badge&logoColor=white)
-![Sigma](https://img.shields.io/badge/Sigma-Rules-FF4B4B?style=for-the-badge&logoColor=white)
-![OpenCTI](https://img.shields.io/badge/OpenCTI-Platform-2E8B57?style=for-the-badge&logoColor=white)
-
-### 🌐 **Cloud Security**
-![Azure Security](https://img.shields.io/badge/Azure%20Security-Expert-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![AWS Security](https://img.shields.io/badge/AWS%20Security-Intermediate-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GCP%20Security-Basic-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-
-### ⚡ **Programming & Automation**
-![PowerShell](https://img.shields.io/badge/PowerShell-Expert-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![Python](https://img.shields.io/badge/Python-Advanced-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![KQL](https://img.shields.io/badge/KQL-Expert-00BCF2?style=for-the-badge&logo=microsoft&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-Advanced-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
-### 🔒 **Penetration Testing**
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logoColor=white)
-![Nessus](https://img.shields.io/badge/Nessus-00C176?style=for-the-badge&logoColor=white)
-
-</div>
-
----
-
-## 📊 Professional Analytics Dashboard
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%">
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=AdarshPandey-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&count_private=true&include_all_commits=true&custom_title=Professional%20GitHub%20Analytics"/>
-</td>
-<td width="50%">
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdarshPandey-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8&custom_title=Security%20Tech%20Stack"/>
-</td>
-</tr>
-</table>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AdarshPandey-dev&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true&custom_title=Annual%20Security%20Contribution%20Timeline"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=AdarshPandey-dev&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=1F6FEB&fire=58A6FF&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E" alt="Contribution Streak"/>
-
-</div>
-
----
-
-## 🎯 Professional Competency Framework
-
-<div align="center">
-
-```yaml
-# Professional Cybersecurity Profile
-name: "Adarsh Pandey"
-role: "Senior Cybersecurity Engineer"
-clearance: "Security+ Verified Professional"
-
-professional_summary:
-  background: "Electronics Engineering → Cybersecurity Transformation"
-  experience: "5+ Years in Enterprise Security Operations"
-  specialization: "Threat Hunting | Azure Security | SOC Operations"
-  
-core_competencies:
-  security_operations:
-    - "24/7 SOC Monitoring & Analysis"
-    - "Advanced Threat Detection & Response"
-    - "Security Incident Management (NIST Framework)"
-    - "Threat Intelligence Integration & Analysis"
-    - "Security Metrics & KPI Development"
-    
-  threat_hunting:
-    - "Hypothesis-Driven Threat Hunting"
-    - "Advanced Persistent Threat (APT) Detection"
-    - "Behavioral Analytics & Anomaly Detection"
-    - "MITRE ATT&CK Framework Implementation"
-    - "Custom Detection Rule Development"
-    
-  cloud_security:
-    - "Azure Security Architecture & Design"
-    - "Zero Trust Implementation Strategy"
-    - "Cloud Security Posture Management (CSPM)"
-    - "Identity & Access Management (IAM)"
-    - "Multi-Cloud Security Governance"
-
-technical_arsenal:
-  programming_languages:
-    primary: ["PowerShell", "Python", "KQL (Kusto Query Language)"]
-    secondary: ["Bash", "JavaScript", "SQL", "YAML"]
-    
-  security_platforms:
-    SIEM_SOAR: ["Microsoft Sentinel", "Splunk Enterprise", "IBM QRadar"]
-    cloud_security: ["Azure Security Center", "Microsoft Defender 365"]
-    threat_intelligence: ["MISP", "OpenCTI", "ThreatConnect"]
-    vulnerability_management: ["Qualys VMDR", "Rapid7 Nexpose", "Tenable.io"]
-    
-  automation_frameworks:
-    - "Microsoft Logic Apps & Power Automate"
-    - "Python Security Automation Scripts"
-    - "PowerShell Security Modules"
-    - "Ansible Security Playbooks"
-
-industry_certifications:
-  current:
-    - "Microsoft Azure Security Engineer Associate (AZ-500)"
-    - "CompTIA Security+ (SY0-601)"
-    - "GIAC Certified Incident Handler (GCIH)"
-    - "ISC² CISSP Associate"
-  
-  pursuing:
-    - "Certified Ethical Hacker (CEH) v12"
-    - "SANS GCFA (Forensic Analyst)"
-    - "Azure Solutions Architect Expert"
-
-professional_achievements:
-  performance_metrics:
-    - "Reduced Security Incident Response Time by 40%"
-    - "Implemented Zero-Day Threat Detection System"
-    - "Led Cross-Functional Security Incident Response Team"
-    - "Achieved 99.9% Security Monitoring Uptime"
-    
-  community_contributions:
-    - "Published 25+ Security Research Articles"
-    - "Speaker at 10+ Cybersecurity Conferences"
-    - "Active OWASP Chapter Contributor"
-    - "Mentor for Junior Security Professionals"
-
-current_focus_areas:
-  - "AI/ML Integration in Security Operations"
-  - "Advanced Threat Hunting Methodologies"
-  - "Cloud-Native Security Architecture"
-  - "DevSecOps Pipeline Integration"
-  - "Zero Trust Network Architecture"
-
-fun_fact: |
-  "When not hunting cyber threats, I hunt the perfect photograph! 📸
-   My analytical mindset helps both in detecting security anomalies 
-   and capturing stunning visual moments."
+```
+╔══════════════════════════════════════════════════════════════════════════════════════╗
+║                              SECURE TERMINAL ACCESS                                  ║
+║                            CYBERSECURITY DIVISION                                    ║
+╚══════════════════════════════════════════════════════════════════════════════════════╝
 ```
 
-</div>
-
----
-
-## 🚀 Featured Security Projects & Contributions
-
 <div align="center">
-
-<table>
-<tr>
-<td width="50%">
-  <a href="https://github.com/AdarshPandey-dev/azure-threat-hunting-kql">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AdarshPandey-dev&repo=azure-threat-hunting-kql&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" />
-  </a>
-</td>
-<td width="50%">
-  <a href="https://github.com/AdarshPandey-dev/soc-automation-toolkit">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AdarshPandey-dev&repo=soc-automation-toolkit&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" />
-  </a>
-</td>
-</tr>
-<tr>
-<td width="50%">
-  <a href="https://github.com/AdarshPandey-dev/incident-response-playbooks">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AdarshPandey-dev&repo=incident-response-playbooks&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" />
-  </a>
-</td>
-<td width="50%">
-  <a href="https://github.com/AdarshPandey-dev/zero-trust-architecture">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AdarshPandey-dev&repo=zero-trust-architecture&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" />
-  </a>
-</td>
-</tr>
-</table>
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=1500&pause=500&color=00FF00&center=true&vCenter=true&multiline=true&width=800&height=120&lines=root%40pandey-terminal%3A~%24+whoami;%3E+Adarsh+Pandey+-+Cyber+Security+Engineer;root%40pandey-terminal%3A~%24+cat+%2Fetc%2Fpasswd;%3E+THREAT_HUNTER%7CSOC_ANALYST%7CAZURE_SPECIALIST" />
 </div>
 
 ---
 
-## 🏅 Professional Recognition & Bug Bounty Achievements
-
-<div align="center">
-
-### 🎯 **Bug Bounty Hall of Fame**
-
-<table>
-<tr>
-<td align="center" width="25%">
-  <img src="https://img.shields.io/badge/Microsoft-MSRC%20Hall%20of%20Fame-00A4EF?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft MSRC"/><br>
-  <strong>Microsoft MSRC</strong><br>
-  <small>Security Researcher</small>
-</td>
-<td align="center" width="25%">
-  <img src="https://img.shields.io/badge/HackerOne-Top%205%25-494649?style=for-the-badge&logo=hackerone&logoColor=white" alt="HackerOne"/><br>
-  <strong>HackerOne</strong><br>
-  <small>Elite Security Researcher</small>
-</td>
-<td align="center" width="25%">
-  <img src="https://img.shields.io/badge/Bugcrowd-VRT%20Researcher-F26822?style=for-the-badge&logo=bugcrowd&logoColor=white" alt="Bugcrowd"/><br>
-  <strong>Bugcrowd VRT</strong><br>
-  <small>Vulnerability Research Team</small>
-</td>
-<td align="center" width="25%">
-  <img src="https://img.shields.io/badge/CVE-Published%20Researcher-8B0000?style=for-the-badge&logo=mitre&logoColor=white" alt="CVE"/><br>
-  <strong>CVE Program</strong><br>
-  <small>Vulnerability Discoverer</small>
-</td>
-</tr>
-</table>
-
-### 🏆 **CTF & Competition Achievements**
-
-![PicoCTF](https://img.shields.io/badge/PicoCTF-Top%2010%25-FF6B35?style=for-the-badge&logoColor=white)
-![TryHackMe](https://img.shields.io/badge/TryHackMe-Top%205%25-212C42?style=for-the-badge&logoColor=white)
-![HackTheBox](https://img.shields.io/badge/HackTheBox-Pro%20Hacker-9FEF00?style=for-the-badge&logoColor=black)
-![SANS](https://img.shields.io/badge/SANS%20CTF-Winner%202023-FF6B35?style=for-the-badge&logoColor=white)
-
-</div>
-
----
-
-## 📈 Professional Development Metrics
+```bash
+┌─[🎯]─[adarsh@hackbox]─[~]
+└──╼ $ sudo access_profile --target="cybersec_professional" --verbose
+```
 
 <div align="center">
 
 ```
-📊 This Quarter's Professional Impact:
-
- 🔍 Threat Hunting Queries Developed    ████████████████████████████  150+ Queries
- 🚨 Security Incidents Investigated     ██████████████████████████    120+ Cases  
- 🛡️ Vulnerabilities Identified          ████████████████████████      85+ Findings
- 🤖 Automation Scripts Deployed         ██████████████████████        45+ Scripts
- 📚 Knowledge Sharing Contributions     ████████████████████          35+ Articles
- 🎤 Conference Presentations            ████████████                  12+ Talks
- 👥 Professional Mentoring Sessions     ██████████████████            25+ Sessions
-
+███████╗██╗   ██╗██████╗ ███████╗██████╗     ██╗  ██╗ █████╗  ██████╗██╗  ██╗███████╗██████╗ 
+██╔════╝╚██╗ ██╔╝██╔══██╗██╔════╝██╔══██╗    ██║  ██║██╔══██╗██╔════╝██║ ██╔╝██╔════╝██╔══██╗
+██║      ╚████╔╝ ██████╔╝█████╗  ██████╔╝    ███████║███████║██║     █████╔╝ █████╗  ██████╔╝
+██║       ╚██╔╝  ██╔══██╗██╔══╝  ██╔══██╗    ██╔══██║██╔══██║██║     ██╔═██╗ ██╔══╝  ██╔══██╗
+╚██████╗   ██║   ██████╔╝███████╗██║  ██║    ██║  ██║██║  ██║╚██████╗██║  ██╗███████╗██║  ██║
+ ╚═════╝   ╚═╝   ╚═════╝ ╚══════╝╚═╝  ╚═╝    ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝
 ```
 
 </div>
 
+```console
+[+] Establishing secure connection...
+[+] Authenticating credentials...  
+[+] Access granted to profile database
+[!] Warning: Unauthorized access will be prosecuted
+
+╭─ USER PROFILE ─────────────────────────────────────────────────────────╮
+│ USERNAME    : adarsh_pandey                                            │
+│ CODENAME    : CyberNinja                                               │
+│ STATUS      : [ONLINE] 🟢                                             │
+│ CLEARANCE   : CLASSIFIED                                               │
+│ LOCATION    : Kanpur, India 🇮🇳                                      │
+│ TIMEZONE    : IST (UTC+5:30)                                           │
+╰────────────────────────────────────────────────────────────────────────╯
+```
+
 ---
 
-## 🌐 Professional Speaking & Thought Leadership
+```bash
+┌─[💀]─[adarsh@hackbox]─[~]
+└──╼ $ cat /etc/profile/bio.txt
+```
+
+```
+╔════════════════════════════════════════════════════════════════════════════╗
+║  🚨 CLASSIFIED: CYBERSECURITY OPERATIVE PROFILE 🚨                       ║
+╠════════════════════════════════════════════════════════════════════════════╣
+║                                                                            ║
+║  👤 OPERATIVE: Adarsh "CyberNinja" Pandey                                ║
+║  🎯 MISSION: Defending Digital Infrastructure                             ║
+║  🏴‍☠️ BACKGROUND: Ex-Electronics Engineer turned Elite Hacker Hunter      ║
+║                                                                            ║
+║  📊 STATS:                                                                ║
+║  ├── 💻 Years in Cyber Warfare: 5+                                       ║
+║  ├── 🎯 Threats Neutralized: 1000+                                       ║
+║  ├── ☁️ Cloud Fortresses Secured: 500+                                   ║
+║  ├── 🐛 Bug Bounties Claimed: 50+                                        ║
+║  └── 📜 Security Certifications: 8                                        ║
+║                                                                            ║
+║  🔥 SPECIAL SKILLS:                                                       ║
+║  ├── Advanced Persistent Threat (APT) Hunter                             ║
+║  ├── Zero-Day Vulnerability Research                                      ║
+║  ├── Cloud Security Architecture                                          ║
+║  └── Digital Forensics & Incident Response                               ║
+║                                                                            ║
+╚════════════════════════════════════════════════════════════════════════════╝
+```
+
+```bash
+┌─[⚡]─[adarsh@hackbox]─[~]
+└──╼ $ ls -la /var/log/social_networks/
+```
+
+```
+total 48K
+drwxr-xr-x 2 adarsh hackers  4.0K Nov 28 13:37 .
+drwxr-xr-x 8 adarsh hackers  4.0K Nov 28 13:37 ..
+-rw-r--r-- 1 adarsh hackers  2.1K Nov 28 13:37 linkedin.log
+-rw-r--r-- 1 adarsh hackers  1.8K Nov 28 13:37 twitter.log  
+-rw-r--r-- 1 adarsh hackers  3.2K Nov 28 13:37 github.log
+-rw-r--r-- 1 adarsh hackers  1.5K Nov 28 13:37 email.log
+```
 
 <div align="center">
 
-### 📽️ **Recent Conference Presentations**
-
-| Event | Title | Year | Resources |
-|-------|-------|------|-----------|
-| **BSides Delhi** | "Advanced KQL for Threat Hunting" | 2024 | [🎥 Recording](link) \| [📊 Slides](link) |
-| **OWASP Global** | "Zero Trust in Multi-Cloud Environments" | 2024 | [📚 Paper](link) \| [🔗 Demo](link) |
-| **BlackHat Arsenal** | "SOC Automation Toolkit" | 2023 | [⚡ Tool](link) \| [📖 Docs](link) |
-| **DEF CON Village** | "AI-Powered Threat Detection" | 2023 | [🤖 Code](link) \| [🎭 Demo](link) |
-
-### ✍️ **Published Security Research**
-
-- 📄 **"Machine Learning in SOC Operations"** - SANS Reading Room
-- 📄 **"Azure Sentinel Advanced Analytics"** - Microsoft Security Blog
-- 📄 **"Threat Hunting at Enterprise Scale"** - InfoSec Magazine
-- 📄 **"Zero Trust Implementation Guide"** - NIST Special Publication
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=black)](https://www.linkedin.com/in/adarsh-pandey-2019/)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=black)](https://twitter.com/InfosecMonk)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-00FF00?style=for-the-badge&logo=github&logoColor=white&labelColor=black)](https://github.com/AdarshPandey-dev)
+[![Email](https://img.shields.io/badge/Email-Encrypted-FF0000?style=for-the-badge&logo=protonmail&logoColor=white&labelColor=black)](mailto:adarsh@protonmail.com)
 
 </div>
 
 ---
 
-## 🔗 Professional Community Engagement
+```bash
+┌─[🏆]─[adarsh@hackbox]─[~]
+└──╼ $ cat /etc/certificates/achievements.json
+```
+
+```json
+{
+  "security_clearances": {
+    "active_certifications": [
+      {
+        "cert": "TryHackMe Elite Hacker",
+        "level": "Top 5% Global",
+        "badge": "🏴‍☠️",
+        "verified": true
+      },
+      {
+        "cert": "Azure Security Engineer",
+        "code": "AZ-500",
+        "badge": "☁️",
+        "verified": true
+      },
+      {
+        "cert": "CompTIA Security+",
+        "code": "SY0-601", 
+        "badge": "🛡️",
+        "verified": true
+      },
+      {
+        "cert": "GCIH - Incident Handler",
+        "org": "SANS",
+        "badge": "🚨",
+        "verified": true
+      }
+    ],
+    "pursuit_list": [
+      "OSCP - Offensive Security",
+      "CISSP - Information Security",
+      "CEH - Ethical Hacker"
+    ]
+  }
+}
+```
+
+<div align="center">
+<img src="https://tryhackme-badges.s3.amazonaws.com/pandey24.png" alt="TryHackMe Badge" width="120"/>
+</div>
+
+---
+
+```bash
+┌─[💻]─[adarsh@hackbox]─[~]
+└──╼ $ ./scan_skills.sh --deep-scan --all-modules
+```
+
+```
+[████████████████████████████████████████] 100%
+
+╔═══════════════════════════════════════════════════════════════════════════════════╗
+║                              SKILL MATRIX ANALYSIS                               ║
+╠═══════════════════════════════════════════════════════════════════════════════════╣
+║                                                                                   ║
+║  🔍 THREAT HUNTING & ANALYSIS                               [████████████] 95%   ║
+║  ├── Advanced Persistent Threat Detection                  [███████████▓] 90%   ║
+║  ├── MITRE ATT&CK Framework Implementation                  [████████████] 95%   ║
+║  ├── Behavioral Analytics & ML Detection                   [██████████▓▓] 85%   ║
+║  └── Digital Forensics & Malware Analysis                  [███████████▓] 88%   ║
+║                                                                                   ║
+║  ☁️ CLOUD SECURITY WARFARE                                 [███████████▓] 92%   ║
+║  ├── Azure Security Center & Defender                      [████████████] 98%   ║
+║  ├── Multi-Cloud Security Architecture                     [██████████▓▓] 85%   ║
+║  ├── Container Security & DevSecOps                        [█████████▓▓▓] 80%   ║
+║  └── Zero Trust Network Implementation                      [███████████▓] 87%   ║
+║                                                                                   ║
+║  🛡️ SOC OPERATIONS & INCIDENT RESPONSE                     [████████████] 96%   ║
+║  ├── SIEM/SOAR Platform Management                         [████████████] 94%   ║
+║  ├── 24/7 Security Monitoring & Analysis                   [████████████] 97%   ║
+║  ├── Incident Response & Crisis Management                 [███████████▓] 91%   ║
+║  └── Threat Intelligence Integration                       [██████████▓▓] 89%   ║
+║                                                                                   ║
+║  ⚡ PROGRAMMING & AUTOMATION                                [██████████▓▓] 88%   ║
+║  ├── PowerShell Security Scripting                        [████████████] 95%   ║
+║  ├── Python for Security Automation                       [███████████▓] 90%   ║
+║  ├── KQL (Kusto Query Language)                           [████████████] 97%   ║
+║  └── Bash/Linux System Administration                     [██████████▓▓] 85%   ║
+║                                                                                   ║
+║  🕸️ PENETRATION TESTING & RED TEAM                        [█████████▓▓▓] 82%   ║
+║  ├── Web Application Security Testing                      [██████████▓▓] 85%   ║
+║  ├── Network Penetration Testing                          [█████████▓▓▓] 80%   ║
+║  ├── Social Engineering & OSINT                           [████████▓▓▓▓] 75%   ║
+║  └── Exploit Development & Research                        [███████▓▓▓▓▓] 70%   ║
+║                                                                                   ║
+╚═══════════════════════════════════════════════════════════════════════════════════╝
+```
+
+---
+
+```bash
+┌─[🔧]─[adarsh@hackbox]─[~]  
+└──╼ $ cat /proc/toolkit/arsenal.cfg
+```
+
+```
+################################################################################
+#                           CYBERSECURITY ARSENAL                             #
+################################################################################
+
+[SIEM_PLATFORMS]
+primary_siem = "Microsoft Sentinel"        # Level: Expert    ████████████
+secondary_siem = "Splunk Enterprise"       # Level: Advanced  ███████████▓
+backup_siem = "IBM QRadar"                 # Level: Intermediate ████████▓▓▓
+
+[THREAT_HUNTING]
+query_language = "KQL"                     # Level: Expert    ████████████
+frameworks = ["MITRE ATT&CK", "NIST"]     # Level: Advanced  ███████████▓
+tools = ["Yara", "Sigma", "OpenIOC"]      # Level: Advanced  ███████████▓
+
+[CLOUD_SECURITY]
+primary_cloud = "Microsoft Azure"          # Level: Expert    ████████████
+secondary_cloud = "Amazon AWS"             # Level: Intermediate ████████▓▓▓
+tools = ["Defender", "CloudTrail", "Config"] # Level: Advanced ███████████▓
+
+[PROGRAMMING]
+scripting = ["PowerShell", "Python"]      # Level: Expert    ████████████
+automation = ["Logic Apps", "Ansible"]    # Level: Advanced  ███████████▓
+databases = ["SQL", "NoSQL", "Graph"]     # Level: Intermediate ████████▓▓▓
+
+[PENTESTING]
+os = "Kali Linux"                          # Level: Advanced  ███████████▓
+frameworks = ["Metasploit", "Cobalt Strike"] # Level: Intermediate ████████▓▓▓
+web_tools = ["Burp Suite", "OWASP ZAP"]   # Level: Advanced  ███████████▓
+network_tools = ["Nmap", "Wireshark"]     # Level: Expert    ████████████
+
+[BUG_BOUNTY]
+platforms = ["HackerOne", "Bugcrowd"]     # Status: Active   🟢
+speciality = ["Web Apps", "Cloud Config"] # Focus: Critical  🔴
+achievements = ["Top 5%", "Hall of Fame"] # Recognition: Elite ⭐
+```
+
+---
+
+```bash
+┌─[📊]─[adarsh@hackbox]─[~]
+└──╼ $ git log --oneline --graph --decorate --all | head -20
+```
 
 <div align="center">
 
-### 🤝 **Active Memberships & Associations**
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AdarshPandey-dev&show_icons=true&theme=dark&bg_color=0D1117&title_color=00FF00&text_color=00FF00&icon_color=00FF00&border_color=00FF00&hide_border=false"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdarshPandey-dev&layout=compact&theme=dark&bg_color=0D1117&title_color=00FF00&text_color=00FF00&border_color=00FF00&hide_border=false"/>
 
-![ISC2](https://img.shields.io/badge/ISC²-Professional%20Member-4B0082?style=for-the-badge&logo=isc2&logoColor=white)
-![ISACA](https://img.shields.io/badge/ISACA-Associate%20Member-FF6B35?style=for-the-badge&logoColor=white)
-![OWASP](https://img.shields.io/badge/OWASP-Chapter%20Leader-000000?style=for-the-badge&logo=owasp&logoColor=white)
-![SANS](https://img.shields.io/badge/SANS-Community%20Instructor-FF6B35?style=for-the-badge&logoColor=white)
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AdarshPandey-dev&bg_color=0d1117&color=00ff00&line=00ff00&point=ffffff&area=true&area_color=00ff00&hide_border=false&custom_title=HACKING%20ACTIVITY%20TIMELINE"/>
 
-### 🌟 **Professional Contributions**
-
-- 🎓 **Cybersecurity Mentor** - Guiding 20+ Junior Security Professionals
-- 📝 **Technical Reviewer** - SANS Training Materials & Certifications
-- 🎤 **Guest Lecturer** - University Cybersecurity Programs
-- 🤝 **Industry Advisor** - Cybersecurity Startup Accelerator Program
+<img src="https://github-readme-streak-stats.herokuapp.com?user=AdarshPandey-dev&theme=dark&background=0D1117&stroke=00FF00&ring=00FF00&fire=00FF00&currStreakNum=00FF00&sideNums=00FF00&currStreakLabel=00FF00&sideLabels=00FF00&dates=00FF00&border=00FF00" alt="GitHub Streak"/>
 
 </div>
 
 ---
+
+```bash
+┌─[🚨]─[adarsh@hackbox]─[~]
+└──╼ $ sudo tail -f /var/log/security/threat_hunting.log
+```
+
+```
+[2024-11-28 15:42:13] INFO  - Advanced KQL query deployed to Sentinel workspace
+[2024-11-28 14:33:27] WARN  - Potential APT activity detected in network segment 192.168.1.0/24
+[2024-11-28 13:15:44] INFO  - Zero-day vulnerability research published: CVE-2024-XXXX
+[2024-11-28 12:08:19] SUCCESS - Automated incident response playbook executed successfully  
+[2024-11-28 11:45:32] INFO  - Bug bounty submission accepted: Critical RCE in web application
+[2024-11-28 10:22:17] INFO  - PowerShell security module updated with new detection rules
+[2024-11-28 09:31:08] ALERT - Malware family "BadCyber.exe" signatures updated in Defender
+[2024-11-28 08:17:45] INFO  - Threat intelligence feed synchronized with MISP platform
+[2024-11-28 07:54:22] SUCCESS - SOC team training completed: "Advanced Threat Hunting"
+[2024-11-28 06:33:11] INFO  - Azure Security Center policy compliance: 98.7%
+```
+
+---
+
+```bash
+┌─[🎯]─[adarsh@hackbox]─[~]
+└──╼ $ cat /home/adarsh/.hackprofile
+```
+
+```ascii
+                    ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+                    ░  ██╗  ██╗ █████╗  ██████╗██╗  ██╗███████╗██████╗  ░
+                    ░  ██║  ██║██╔══██╗██╔════╝██║ ██╔╝██╔════╝██╔══██╗ ░
+                    ░  ███████║███████║██║     █████╔╝ █████╗  ██████╔╝ ░
+                    ░  ██╔══██║██╔══██║██║     ██╔═██╗ ██╔══╝  ██╔══██╗ ░
+                    ░  ██║  ██║██║  ██║╚██████╗██║  ██╗███████╗██║  ██║ ░
+                    ░  ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝ ░
+                    ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+
+                         🏴‍☠️ "Not all heroes wear capes, some write code" 🏴‍☠️
+                              
+                              🔥 Current Hack Status: ACTIVE 🔥
+                              📍 Location: Behind 7 proxies
+                              🌐 Network: Anonymous  
+                              ⚡ Threat Level: MAXIMUM
+```
+
+**PERSONAL STATS:**
+- 💻 **Uptime**: 24/7/365 (Coffee-powered)
+- 🎯 **Precision**: 99.9% threat detection accuracy
+- ⚡ **Response Time**: < 30 seconds for critical alerts  
+- 🔥 **Heat Level**: Always running hot on latest threats
+- 📚 **Learning Mode**: Never stops updating
+
+**FAVORITE TERMINAL COMMANDS:**
+```bash
+$ nmap -sS -O target_network        # Network reconnaissance 
+$ grep -r "malware" /var/log/*      # Threat hunting
+$ python3 exploit.py --target=APT   # Counter-offensive operations
+$ sudo ./incident_response.sh       # Crisis management
+$ curl -X POST threat-intel-api     # Intelligence gathering
+```
+
+**CURRENT MISSIONS:**
+- 🎯 Operation: Zero Trust Implementation  
+- 🔍 Investigation: Advanced Persistent Threat Group  
+- 🛡️ Defense: Multi-Cloud Security Architecture
+- 📚 Research: AI-Powered Threat Detection
+- 🎤 Training: Next-Gen SOC Analysts
+
+---
+
+```bash
+┌─[🏆]─[adarsh@hackbox]─[~]
+└──╼ $ ./generate_achievement_report.py --format=terminal --year=2024
+```
+
+```
+╔════════════════════════════════════════════════════════════════════════════════╗
+║                          🏆 2024 ACHIEVEMENT UNLOCKED 🏆                      ║
+╠════════════════════════════════════════════════════════════════════════════════╣
+║                                                                                ║
+║  🎯 BUG BOUNTY HALL OF FAME                                                   ║
+║  ├─ Microsoft MSRC Recognition           ⭐⭐⭐⭐⭐                        ║
+║  ├─ HackerOne Elite Status (Top 5%)      ⭐⭐⭐⭐⭐                        ║
+║  ├─ Bugcrowd VRT Researcher              ⭐⭐⭐⭐                          ║
+║  └─ CVE Publications: 3 Critical         ⭐⭐⭐⭐⭐                        ║
+║                                                                                ║
+║  🎪 CONFERENCE PRESENTATIONS                                                  ║
+║  ├─ BSides Delhi: "Advanced KQL Hunting"  🎤                                 ║
+║  ├─ OWASP Global: "Zero Trust Multi-Cloud" 🎤                                ║
+║  ├─ DEF CON Village: "AI Threat Detection" 🎤                                ║
+║  └─ Black Hat Arsenal: "SOC Automation"   🎤                                 ║
+║                                                                                ║
+║  📚 RESEARCH PUBLICATIONS                                                     ║
+║  ├─ SANS Reading Room (2 papers)          📄📄                              ║
+║  ├─ InfoSec Magazine (5 articles)         📄📄📄📄📄                        ║
+║  ├─ Microsoft Security Blog (3 posts)     📄📄📄                            ║
+║  └─ NIST Special Publication (1 guide)    📄                                 ║
+║                                                                                ║
+║  🏅 COMMUNITY IMPACT                                                          ║
+║  ├─ Security Professionals Mentored: 25+  👥                                 ║
+║  ├─ Open Source Security Tools: 12        🔧                                 ║
+║  ├─ CTF Challenges Created: 8             🚩                                 ║
+║  └─ SOC Playbooks Contributed: 15         📋                                 ║
+║                                                                                ║
+╚════════════════════════════════════════════════════════════════════════════════╝
+```
+
+---
+
+```bash
+┌─[💬]─[adarsh@hackbox]─[~]
+└──╼ $ echo "Want to connect with a fellow hacker?" | cowsay -f daemon
+```
+
+```
+ ___________________________________
+< Want to connect with a fellow hacker? >
+ -----------------------------------
+   \         ,        ,
+    \       /(        )`
+     \      \ \___   / |
+            /- _  `-/  '
+           (/\/ \ \   /\
+           / /   | `    \
+           O O   ) /    |
+           `-^--'`<     '
+          (_.)  _  )   /
+           `.___/`    /
+             `-----' /
+<----.     __ / __   \
+<----|====O)))==) \) /====
+<----'    `--' `.__,' \
+             |        |
+              \       /
+        ______( (_  / \______
+      ,'  ,-----'   |        \
+      `--{__________)        \/
+```
+
+**🔗 SECURE COMMUNICATION CHANNELS:**
+
+- 📡 **Signal**: @CyberNinja_Adarsh (Encrypted)
+- 💬 **Discord**: AdarshPandey#1337 (Gaming & Tech Talk)  
+- 🐦 **Twitter**: @InfosecMonk (Public Updates)
+- 💼 **LinkedIn**: Professional Networking
+- 📧 **ProtonMail**: adarsh@protonmail.com (Secure)
+
+**💭 COLLABORATION INTERESTS:**
+- 🤝 Threat Hunting Research Projects
+- 🔬 Zero-Day Vulnerability Research  
+- ☁️ Cloud Security Architecture Reviews
+- 🎓 Cybersecurity Training & Mentoring
+- 🎤 Conference Speaking Opportunities
+- 📚 Technical Writing & Documentation
+
+---
+
+```bash
+┌─[🎮]─[adarsh@hackbox]─[~]
+└──╼ $ history | tail -5
+```
+
+```
+1337  sudo nmap -sS -sV -O target_network --script vuln
+1338  python3 -m pip install --upgrade security-toolkit  
+1339  git clone https://github.com/AdarshPandey-dev/threat-hunting-kql.git
+1340  ./automate_soc_response.sh --incident-id=2024-1128-001
+1341  curl -H "Authorization: Bearer $API_KEY" https://api.cyberthreat.intel/v1/latest
+```
+
+```bash
+┌─[💀]─[adarsh@hackbox]─[~] 
+└──╼ $ cat /etc/motd
+```
+
+```
+╭──────────────────────────────────────────────────────────────────────────────╮
+│                                                                              │
+│  "The quieter you become, the more you are able to hear."                   │
+│                                        - Kali Linux                         │
+│                                                                              │
+│  💀 Remember: With great power comes great responsibility                    │
+│  🛡️  Always hack ethically and within legal boundaries                      │
+│  🎯 Use your skills to make the digital world safer                         │
+│                                                                              │
+│  Current Mission: Protecting digital infrastructure one threat at a time    │
+│                                                                              │
+╰──────────────────────────────────────────────────────────────────────────────╯
+```
 
 <div align="center">
 
-## 💬 Professional Collaboration
+```
+[adarsh@hackbox ~]$ exit
+Connection to cybersec-terminal closed.
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="80">
+🔒 END OF SECURE SESSION 🔒
+```
 
-**Ready to Secure the Digital Future Together?**
+<img src="https://komarev.com/ghpvc/?username=AdarshPandey-dev&style=for-the-badge&color=00ff00&labelColor=000000&label=TERMINAL+ACCESS" alt="Terminal Access Counter"/>
 
-I'm always open to professional collaborations, security research partnerships, and knowledge sharing opportunities. Whether you're interested in discussing advanced threat hunting techniques, exploring cloud security architecture, or collaborating on security research projects, I'd be delighted to connect!
-
-### 📧 **Professional Contact**
-- **Security Consulting**: [security@adarshpandey.dev](mailto:security@adarshpandey.dev)
-- **Speaking Engagements**: [speaking@adarshpandey.dev](mailto:speaking@adarshpandey.dev)
-- **Research Collaboration**: [research@adarshpandey.dev](mailto:research@adarshpandey.dev)
+</div>
 
 ---
 
-*"Security is not a destination, it's a journey of continuous vigilance and innovation."*
-
-**~ Adarsh Pandey, Cybersecurity Professional**
-
-<img src="https://komarev.com/ghpvc/?username=AdarshPandey-dev&style=for-the-badge&color=0078d4&labelColor=000000" alt="Professional Profile Views"/>
-
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
-
-</div>
+```
+╔══════════════════════════════════════════════════════════════════════════════════════╗
+║  ⚠️  WARNING: This profile is monitored by advanced threat detection systems  ⚠️   ║
+║      Unauthorized access attempts will be logged and reported                        ║
+╚══════════════════════════════════════════════════════════════════════════════════════╝
+```
