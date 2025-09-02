@@ -69,8 +69,8 @@
 ║  └── 📜 Security Certifications: 10+                                      ║
 ║                                                                            ║
 ║  🔥 SPECIAL SKILLS:                                                        ║
-║  ├── Advanced Persistent Threat (APT) Hunter
-║  ├── SIEM And Detection Engineering
+║  ├── Advanced Persistent Threat (APT) Hunter                               ║
+║  ├── SIEM And Detection Engineering                                        ║
 ║  ├── Zero-Day Vulnerability Research                                       ║
 ║  ├── Cloud Security Architecture                                           ║
 ║  └── Digital Forensics & Incident Response                                 ║
