@@ -1,7 +1,7 @@
 ```
 ╔══════════════════════════════════════════════════════════════════════════════════════╗
 ║                              SECURE TERMINAL ACCESS                                  ║
-║                            CYBERSECURITY DIVISION                                    ║
+║                              CYBERSECURITY DIVISION                                  ║
 ╚══════════════════════════════════════════════════════════════════════════════════════╝
 ```
 
@@ -36,11 +36,11 @@
 [!] Warning: Unauthorized access will be prosecuted
 
 ╭─ USER PROFILE ─────────────────────────────────────────────────────────╮
-│ USERNAME    : adarsh_pandey                                            │
-│ CODENAME    : CyberNinja                                               │
+│ USERNAME    : Adarsh Pandey                                            │
+│ CODENAME    : InfosecPandey                                            │
 │ STATUS      : [ONLINE] 🟢                                             │
 │ CLEARANCE   : CLASSIFIED                                               │
-│ LOCATION    : Kanpur, India 🇮🇳                                      │
+│ LOCATION    : Kanpur, India 🇮🇳                                         │
 │ TIMEZONE    : IST (UTC+5:30)                                           │
 ╰────────────────────────────────────────────────────────────────────────╯
 ```
@@ -54,25 +54,26 @@
 
 ```
 ╔════════════════════════════════════════════════════════════════════════════╗
-║  🚨 CLASSIFIED: CYBERSECURITY OPERATIVE PROFILE 🚨                       ║
+║  🚨 CLASSIFIED: CYBERSECURITY OPERATIVE PROFILE 🚨                        ║
 ╠════════════════════════════════════════════════════════════════════════════╣
 ║                                                                            ║
-║  👤 OPERATIVE: Adarsh "CyberNinja" Pandey                                ║
+║  👤 OPERATIVE: Adarsh "Infosec" Pandey                                    ║
 ║  🎯 MISSION: Defending Digital Infrastructure                             ║
-║  🏴‍☠️ BACKGROUND: Ex-Electronics Engineer turned Elite Hacker Hunter      ║
+║  🏴‍☠️ BACKGROUND: Ex-Electronics Engineer turned Elite Hacker Hunter        ║
 ║                                                                            ║
 ║  📊 STATS:                                                                ║
-║  ├── 💻 Years in Cyber Warfare: 5+                                       ║
-║  ├── 🎯 Threats Neutralized: 1000+                                       ║
-║  ├── ☁️ Cloud Fortresses Secured: 500+                                   ║
-║  ├── 🐛 Bug Bounties Claimed: 50+                                        ║
-║  └── 📜 Security Certifications: 8                                        ║
+║  ├── 💻 Years in Cyber Warfare: 6+                                        ║
+║  ├── 🎯 Threats Neutralized: 1000+  (True)                                ║
+║  ├── ☁️ Cloud Fortresses Secured: 200+                                    ║
+║  ├── 🐛 Bug Bounties Claimed: 00                                          ║
+║  └── 📜 Security Certifications: 10+                                      ║
 ║                                                                            ║
-║  🔥 SPECIAL SKILLS:                                                       ║
-║  ├── Advanced Persistent Threat (APT) Hunter                             ║
-║  ├── Zero-Day Vulnerability Research                                      ║
-║  ├── Cloud Security Architecture                                          ║
-║  └── Digital Forensics & Incident Response                               ║
+║  🔥 SPECIAL SKILLS:                                                        ║
+║  ├── Advanced Persistent Threat (APT) Hunter
+║  ├── SIEM And Detection Engineering
+║  ├── Zero-Day Vulnerability Research                                       ║
+║  ├── Cloud Security Architecture                                           ║
+║  └── Digital Forensics & Incident Response                                 ║
 ║                                                                            ║
 ╚════════════════════════════════════════════════════════════════════════════╝
 ```
@@ -90,14 +91,17 @@ drwxr-xr-x 8 adarsh hackers  4.0K Nov 28 13:37 ..
 -rw-r--r-- 1 adarsh hackers  1.8K Nov 28 13:37 twitter.log  
 -rw-r--r-- 1 adarsh hackers  3.2K Nov 28 13:37 github.log
 -rw-r--r-- 1 adarsh hackers  1.5K Nov 28 13:37 email.log
+-rw-r--r-- 1 adarsh hackers  1.5K Nov 28 13:37 youtube.log
 ```
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=black)](https://www.linkedin.com/in/adarsh-pandey-2019/)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=black)](https://twitter.com/InfosecMonk)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=black)](https://twitter.com/InfosecPandey)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-00FF00?style=for-the-badge&logo=github&logoColor=white&labelColor=black)](https://github.com/AdarshPandey-dev)
-[![Email](https://img.shields.io/badge/Email-Encrypted-FF0000?style=for-the-badge&logo=protonmail&logoColor=white&labelColor=black)](mailto:adarsh@protonmail.com)
+[![Email](https://img.shields.io/badge/Email-Encrypted-FF0000?style=for-the-badge&logo=protonmail&logoColor=white&labelColor=black)](mailto:infosecninja2025@gmail.com)
+[![YouTube](https://img.shields.io/badge/YouTube-Cybersecurity%20Channel-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=FF0000)](https://www.youtube.com/@InfosecPandey)
+
 
 </div>
 
@@ -119,20 +123,20 @@ drwxr-xr-x 8 adarsh hackers  4.0K Nov 28 13:37 ..
         "verified": true
       },
       {
-        "cert": "Azure Security Engineer",
-        "code": "AZ-500",
+        "cert": "Azure Security",
+        "code": "SC-900/Az-900",
         "badge": "☁️",
         "verified": true
       },
       {
-        "cert": "CompTIA Security+",
-        "code": "SY0-601", 
+        "cert": "Network Security",
+        "code": "Netsec", 
         "badge": "🛡️",
         "verified": true
       },
       {
-        "cert": "GCIH - Incident Handler",
-        "org": "SANS",
+        "cert": "Incident Handler",
+        "org": "LinkedInLearning",
         "badge": "🚨",
         "verified": true
       }
@@ -161,39 +165,37 @@ drwxr-xr-x 8 adarsh hackers  4.0K Nov 28 13:37 ..
 [████████████████████████████████████████] 100%
 
 ╔═══════════════════════════════════════════════════════════════════════════════════╗
-║                              SKILL MATRIX ANALYSIS                               ║
+║                              SKILL MATRIX ANALYSIS                                ║
 ╠═══════════════════════════════════════════════════════════════════════════════════╣
+║  🔍 THREAT HUNTING & ANALYSIS                               [████████████] 95%    ║
+║  ├── Advanced Persistent Threat Detection                  [███████████▓] 90%     ║
+║  ├── MITRE ATT&CK Framework Implementation                  [████████████] 95%    ║
+║  ├── Behavioral Analytics & ML Detection                   [██████████▓▓] 85%     ║
+║  └── Digital Forensics & Malware Analysis                  [███████████▓] 88%     ║
 ║                                                                                   ║
-║  🔍 THREAT HUNTING & ANALYSIS                               [████████████] 95%   ║
-║  ├── Advanced Persistent Threat Detection                  [███████████▓] 90%   ║
-║  ├── MITRE ATT&CK Framework Implementation                  [████████████] 95%   ║
-║  ├── Behavioral Analytics & ML Detection                   [██████████▓▓] 85%   ║
-║  └── Digital Forensics & Malware Analysis                  [███████████▓] 88%   ║
+║  ☁️ CLOUD SECURITY WARFARE                                 [███████████▓] 92%    ║
+║  ├── Azure Security Center & Defender                      [████████████] 98%     ║
+║  ├── Multi-Cloud Security Architecture                     [██████████▓▓] 85%     ║
+║  ├── Container Security & DevSecOps                        [█████████▓▓▓] 80%     ║
+║  └── Zero Trust Network Implementation                      [███████████▓] 87%    ║
 ║                                                                                   ║
-║  ☁️ CLOUD SECURITY WARFARE                                 [███████████▓] 92%   ║
-║  ├── Azure Security Center & Defender                      [████████████] 98%   ║
-║  ├── Multi-Cloud Security Architecture                     [██████████▓▓] 85%   ║
-║  ├── Container Security & DevSecOps                        [█████████▓▓▓] 80%   ║
-║  └── Zero Trust Network Implementation                      [███████████▓] 87%   ║
-║                                                                                   ║
-║  🛡️ SOC OPERATIONS & INCIDENT RESPONSE                     [████████████] 96%   ║
-║  ├── SIEM/SOAR Platform Management                         [████████████] 94%   ║
-║  ├── 24/7 Security Monitoring & Analysis                   [████████████] 97%   ║
-║  ├── Incident Response & Crisis Management                 [███████████▓] 91%   ║
-║  └── Threat Intelligence Integration                       [██████████▓▓] 89%   ║
+║  🛡️ SOC OPERATIONS & INCIDENT RESPONSE                     [████████████] 96%    ║
+║  ├── SIEM/SOAR Platform Management                         [████████████] 94%     ║
+║  ├── 24/7 Security Monitoring & Analysis                   [████████████] 97%     ║
+║  ├── Incident Response & Crisis Management                 [███████████▓] 91%     ║
+║  └── Threat Intelligence Integration                       [██████████▓▓] 89%     ║
 ║                                                                                   ║
 ║  ⚡ PROGRAMMING & AUTOMATION                                [██████████▓▓] 88%   ║
-║  ├── PowerShell Security Scripting                        [████████████] 95%   ║
-║  ├── Python for Security Automation                       [███████████▓] 90%   ║
-║  ├── KQL (Kusto Query Language)                           [████████████] 97%   ║
-║  └── Bash/Linux System Administration                     [██████████▓▓] 85%   ║
+║  ├── PowerShell Security Scripting                        [████████████] 95%      ║
+║  ├── Python for Security Automation                       [███████████▓] 90%      ║
+║  ├── KQL (Kusto Query Language)                           [████████████] 97%      ║
+║  └── Bash/Linux System Administration                     [██████████▓▓] 85%      ║
 ║                                                                                   ║
-║  🕸️ PENETRATION TESTING & RED TEAM                        [█████████▓▓▓] 82%   ║
-║  ├── Web Application Security Testing                      [██████████▓▓] 85%   ║
-║  ├── Network Penetration Testing                          [█████████▓▓▓] 80%   ║
-║  ├── Social Engineering & OSINT                           [████████▓▓▓▓] 75%   ║
-║  └── Exploit Development & Research                        [███████▓▓▓▓▓] 70%   ║
-║                                                                                   ║
+║  🕸️ PENETRATION TESTING & RED TEAM                        [█████████▓▓▓] 82%      ║
+║  ├── Web Application Security Testing                      [██████████▓▓] 85%     ║
+║  ├── Network Penetration Testing                          [█████████▓▓▓] 80%      ║
+║  ├── Social Engineering & OSINT                           [████████▓▓▓▓] 75%      ║
+║  └── Exploit Development & Research                        [███████▓▓▓▓▓] 70%     ║                                                     
 ╚═══════════════════════════════════════════════════════════════════════════════════╝
 ```
 
@@ -216,6 +218,7 @@ backup_siem = "IBM QRadar"                 # Level: Intermediate █████
 
 [THREAT_HUNTING]
 query_language = "KQL"                     # Level: Expert    ████████████
+query_language = "SPL"                     # Level: Advanced  ███████████▓
 frameworks = ["MITRE ATT&CK", "NIST"]     # Level: Advanced  ███████████▓
 tools = ["Yara", "Sigma", "OpenIOC"]      # Level: Advanced  ███████████▓
 
@@ -231,6 +234,7 @@ databases = ["SQL", "NoSQL", "Graph"]     # Level: Intermediate █████�
 
 [PENTESTING]
 os = "Kali Linux"                          # Level: Advanced  ███████████▓
+os = "Parrot OS"                          # Level: Advanced  ███████████▓
 frameworks = ["Metasploit", "Cobalt Strike"] # Level: Intermediate ████████▓▓▓
 web_tools = ["Burp Suite", "OWASP ZAP"]   # Level: Advanced  ███████████▓
 network_tools = ["Nmap", "Wireshark"]     # Level: Expert    ████████████
@@ -339,29 +343,16 @@ $ curl -X POST threat-intel-api     # Intelligence gathering
 ║                          🏆 2024 ACHIEVEMENT UNLOCKED 🏆                      ║
 ╠════════════════════════════════════════════════════════════════════════════════╣
 ║                                                                                ║
-║  🎯 BUG BOUNTY HALL OF FAME                                                   ║
-║  ├─ Microsoft MSRC Recognition           ⭐⭐⭐⭐⭐                        ║
-║  ├─ HackerOne Elite Status (Top 5%)      ⭐⭐⭐⭐⭐                        ║
-║  ├─ Bugcrowd VRT Researcher              ⭐⭐⭐⭐                          ║
-║  └─ CVE Publications: 3 Critical         ⭐⭐⭐⭐⭐                        ║
+║  🎯 BUG BOUNTY HALL OF FAME                                                    ║
 ║                                                                                ║
 ║  🎪 CONFERENCE PRESENTATIONS                                                  ║
-║  ├─ BSides Delhi: "Advanced KQL Hunting"  🎤                                 ║
-║  ├─ OWASP Global: "Zero Trust Multi-Cloud" 🎤                                ║
-║  ├─ DEF CON Village: "AI Threat Detection" 🎤                                ║
-║  └─ Black Hat Arsenal: "SOC Automation"   🎤                                 ║
 ║                                                                                ║
 ║  📚 RESEARCH PUBLICATIONS                                                     ║
-║  ├─ SANS Reading Room (2 papers)          📄📄                              ║
-║  ├─ InfoSec Magazine (5 articles)         📄📄📄📄📄                        ║
-║  ├─ Microsoft Security Blog (3 posts)     📄📄📄                            ║
-║  └─ NIST Special Publication (1 guide)    📄                                 ║
 ║                                                                                ║
 ║  🏅 COMMUNITY IMPACT                                                          ║
-║  ├─ Security Professionals Mentored: 25+  👥                                 ║
-║  ├─ Open Source Security Tools: 12        🔧                                 ║
-║  ├─ CTF Challenges Created: 8             🚩                                 ║
-║  └─ SOC Playbooks Contributed: 15         📋                                 ║
+║  ├─ Security Professionals Mentored: 25+  👥                                  ║
+║  ├─ Open Source Security Tools: 0         🔧                                  ║
+║  ├─ CTF Challenges Created:  0            🚩                                  ║
 ║                                                                                ║
 ╚════════════════════════════════════════════════════════════════════════════════╝
 ```
@@ -400,11 +391,11 @@ $ curl -X POST threat-intel-api     # Intelligence gathering
 
 **🔗 SECURE COMMUNICATION CHANNELS:**
 
-- 📡 **Signal**: @CyberNinja_Adarsh (Encrypted)
-- 💬 **Discord**: AdarshPandey#1337 (Gaming & Tech Talk)  
-- 🐦 **Twitter**: @InfosecMonk (Public Updates)
+- 📡 **Signal**: 
+- 💬 **Discord**:  
+- 🐦 **Twitter**: @InfosecPandey (Public Updates)
 - 💼 **LinkedIn**: Professional Networking
-- 📧 **ProtonMail**: adarsh@protonmail.com (Secure)
+- 📧 **Gmail**: infosecninja2025@gmail.com (Secure)
 
 **💭 COLLABORATION INTERESTS:**
 - 🤝 Threat Hunting Research Projects
@@ -437,14 +428,14 @@ $ curl -X POST threat-intel-api     # Intelligence gathering
 ```
 ╭──────────────────────────────────────────────────────────────────────────────╮
 │                                                                              │
-│  "The quieter you become, the more you are able to hear."                   │
-│                                        - Kali Linux                         │
+│  "The quieter you become, the more you are able to hear."                    │
+│                                        - Kali Linux                          │
 │                                                                              │
-│  💀 Remember: With great power comes great responsibility                    │
+│  💀 Remember: With great power comes great responsibility                   │
 │  🛡️  Always hack ethically and within legal boundaries                      │
 │  🎯 Use your skills to make the digital world safer                         │
 │                                                                              │
-│  Current Mission: Protecting digital infrastructure one threat at a time    │
+│  Current Mission: Protecting digital infrastructure one threat at a time     │
 │                                                                              │
 ╰──────────────────────────────────────────────────────────────────────────────╯
 ```
